@@ -1,0 +1,27 @@
+Delete 5 random lines:
+Hello
+World
+This
+Is
+A
+Random
+Text
+File
+With
+A
+Number
+Of
+Random
+Words
+Per
+Line
+I
+Cannot
+Believe
+I
+Am
+Getting
+Paid
+To
+Do
+This

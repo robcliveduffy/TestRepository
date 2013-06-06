@@ -1,0 +1,8 @@
+//Add your favourite using statements.. You know you have a favourite
+
+using System;
+
+public class Foo
+{
+	
+}
