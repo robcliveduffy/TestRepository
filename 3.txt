@@ -2,7 +2,4 @@
 
 using System;
 
-public class Foo
-{
-	
-}
+public class
