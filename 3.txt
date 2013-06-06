@@ -2,9 +2,4 @@
 
 using System;
 
-public class Foo
-{
-	
-}
-
-wekfjl df 
+public class
